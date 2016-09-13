@@ -44,7 +44,7 @@ if ($httpRequest->isAjax()) {
     foreach ($post as $key => $value) {
 
 	if (isset($fields[$key])) {
-	    $htmlContent .= "<tr><th>$fields[$key]</th><td>$value</td></tr>";
+	    $htmlContent .= "<tr><th>".$fields[$key]."</th><td>".$value."</td></tr>";
 	}
     }
     $htmlContent .= '</table>';
