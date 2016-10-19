@@ -1008,7 +1008,7 @@ strong {
 }
 /* navbar */
 .navbar {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Arvo" ,serif;
   min-height: 80px;
   margin-bottom: 30px;
   border-bottom: 1px solid transparent;
