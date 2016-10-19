@@ -12,7 +12,7 @@ body {
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,
 h1 *, h2 *, h3 *, h4 *, h5 *, h6 *{
-      font-family: 'Arvo',serif;
+      font-family: 'Arvo', "Roboto Slab" ,serif;
       font-weight: 400;
   }
 
@@ -1554,7 +1554,8 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Arvo" ,serif;
+}
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
