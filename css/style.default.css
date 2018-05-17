@@ -181,7 +181,7 @@ INTRO
 }
 #intro .item {
   height: 100%;
-  background: url('../img/home.png') center center no-repeat;
+  background: url('../img/home2.jpg') center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -768,7 +768,7 @@ FOOTER
 
 */
 #footer {
-  background: url('../img/home.jpg') center center no-repeat;
+  background: url('../img/home.png') center center no-repeat;
   font-size: 14px;
   line-height: 50px;
 }
